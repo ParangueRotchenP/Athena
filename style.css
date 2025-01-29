@@ -76,13 +76,13 @@ body {
 }
 
 .image1 {
-    background-image: url('images/rotchee1.jpg');
+    background-image: url('/images/rotchee1.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .image2 {
-    background-image: url('images/rotchee2.jpg');
+    background-image: url('/images/rotchee2.jpg');
     background-size: cover;
     background-position: center;
 }
